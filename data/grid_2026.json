@@ -1,0 +1,39 @@
+{
+  "teams": {
+    "Red Bull Racing": ["Max Verstappen", "Isack Hadjar"],
+    "Ferrari": ["Charles Leclerc", "Lewis Hamilton"],
+    "Mercedes": ["George Russell", "Kimi Antonelli"],
+    "McLaren": ["Lando Norris", "Oscar Piastri"],
+    "Aston Martin": ["Fernando Alonso", "Lance Stroll"],
+    "Alpine": ["Pierre Gasly", "Franco Colapinto"],
+    "Williams": ["Carlos Sainz", "Alexander Albon"],
+    "Haas": ["Esteban Ocon", "Oliver Bearman"],
+    "RB": ["Liam Lawson", "Yuki Tsunoda"],
+    "Audi": ["Nico Hulkenberg", "Gabriel Bortoleto"],
+    "Cadillac": ["Sergio Perez", "Valtteri Bottas"]
+  },
+  "drivers": {
+    "VER": {"name": "Max Verstappen", "team": "Red Bull Racing"},
+    "HAD": {"name": "Isack Hadjar", "team": "Red Bull Racing"},
+    "LEC": {"name": "Charles Leclerc", "team": "Ferrari"},
+    "HAM": {"name": "Lewis Hamilton", "team": "Ferrari"},
+    "RUS": {"name": "George Russell", "team": "Mercedes"},
+    "ANT": {"name": "Kimi Antonelli", "team": "Mercedes"},
+    "NOR": {"name": "Lando Norris", "team": "McLaren"},
+    "PIA": {"name": "Oscar Piastri", "team": "McLaren"},
+    "ALO": {"name": "Fernando Alonso", "team": "Aston Martin"},
+    "STR": {"name": "Lance Stroll", "team": "Aston Martin"},
+    "GAS": {"name": "Pierre Gasly", "team": "Alpine"},
+    "COL": {"name": "Franco Colapinto", "team": "Alpine"},
+    "SAI": {"name": "Carlos Sainz", "team": "Williams"},
+    "ALB": {"name": "Alexander Albon", "team": "Williams"},
+    "OCO": {"name": "Esteban Ocon", "team": "Haas"},
+    "BEA": {"name": "Oliver Bearman", "team": "Haas"},
+    "LAW": {"name": "Liam Lawson", "team": "RB"},
+    "TSU": {"name": "Yuki Tsunoda", "team": "RB"},
+    "HUL": {"name": "Nico Hulkenberg", "team": "Audi"},
+    "BOR": {"name": "Gabriel Bortoleto", "team": "Audi"},
+    "PER": {"name": "Sergio Perez", "team": "Cadillac"},
+    "BOT": {"name": "Valtteri Bottas", "team": "Cadillac"}
+  }
+}
